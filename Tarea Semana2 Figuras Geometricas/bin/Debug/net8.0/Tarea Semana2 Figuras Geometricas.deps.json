@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tarea Semana2 Figuras Geometricas/1.0.0": {
+        "runtime": {
+          "Tarea Semana2 Figuras Geometricas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea Semana2 Figuras Geometricas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
